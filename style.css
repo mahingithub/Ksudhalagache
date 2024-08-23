@@ -342,7 +342,7 @@ ul {
         transition: 1s cubic-bezier(0.165, 0.84, 0.44, 1);
         overflow-y: auto;
         transform: translateY(-100%);
-        background-image: url(assets/images/tastimonial/blog-pattern-bg.png);
+        background-image: url(assets/images/tastimonials/blog-pattern-bg.png);
         background-position: center;
         background-color: #f3f3f5;
     }
